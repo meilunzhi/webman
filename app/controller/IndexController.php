@@ -6,6 +6,11 @@ use support\Request;
 
 class IndexController
 {
+    /**
+     * 首页
+     * @param  Request  $request
+     * @return bool|mixed|string
+     */
     public function index(Request $request)
     {
         static $readme;

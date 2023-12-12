@@ -5,3 +5,7 @@
 .env
 /tests/tmp
 /tests/.phpunit.result.cache
+/tests/ExampleTest.php
+/tests/Pest.php
+/.phpunit.result.cache
+/phpunit.xml
